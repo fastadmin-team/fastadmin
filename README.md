@@ -59,9 +59,7 @@ https://demo.fastadmin.net
 
 QQ 1 群（满）、QQ 2 群（满）、QQ 3 群（满）、QQ 4 群（满）、QQ 5 群（满）、QQ 6 群（满）、[QQ 7 群](https://www.fastadmin.net/goto/qun)。
 
-Github: https://github.com/karsonzhang/fastadmin
-
-Gitee: https://gitee.com/karson/fastadmin
+Github: https://github.com/fastadmin-team/fastadmin
 
 ## 特别鸣谢
 
